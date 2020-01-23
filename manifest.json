@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Habr article to epub converter",
+  "description": "Конвертер статей харб в epub формат",
+  "version": "1.0.0",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
